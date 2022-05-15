@@ -8,4 +8,4 @@
 - Bootstrap, resampling and A/A test check
 - Increasing of A/B sensitivity (stratification, CUPED) and ratio-metrics
 
-> [Certificate](verify.experiment-fest.ru/verify/05042217.pdf)
+> [Certificate](https://verify.experiment-fest.ru/verify/05042217.pdf)
