@@ -3,8 +3,8 @@
 
 #### Course outline
 - Basics of Statistics
-- The main statistical criteria *(parametric & nonparametric)*
-- How to calculate the length of experiment (MDE) and multiple testing
+- Main statistical criteria *(parametric & nonparametric)*
+- How to calculate the length of experiment (MDE) and multiple comparison
 - Bootstrap, resampling and A/A test check
 - Increasing of A/B sensitivity (stratification, CUPED) and ratio-metrics
 
